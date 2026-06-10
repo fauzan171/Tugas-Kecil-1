@@ -1,0 +1,18 @@
+{
+  "name": "tucil1-student-api",
+  "version": "1.0.0",
+  "description": "Tugas Kecil 1 — Student API · Web Advanced Development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "express": "^4.19.2",
+    "prisma": "^5.22.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
